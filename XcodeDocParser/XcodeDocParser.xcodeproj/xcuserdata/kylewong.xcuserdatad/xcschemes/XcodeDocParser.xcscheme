@@ -63,7 +63,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "/Users/kylewong/Documents/Codes/XcodeValidAPI"
+            argument = "$(SRCROOT)/.."
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

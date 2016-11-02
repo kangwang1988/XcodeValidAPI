@@ -221,7 +221,7 @@
 		29054A051DC324FB007637F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CONFIGURATION_BUILD_DIR = /Users/kylewong/Documents/Codes/XcodeValidAPI/Analyzer;
+				CONFIGURATION_BUILD_DIR = $SRCROOT/../Analyzer;
 				DEVELOPMENT_TEAM = VP3AM7E5ZL;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -230,7 +230,7 @@
 		29054A061DC324FB007637F0 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CONFIGURATION_BUILD_DIR = /Users/kylewong/Documents/Codes/XcodeValidAPI/Analyzer;
+				CONFIGURATION_BUILD_DIR = $SRCROOT/../Analyzer;
 				DEVELOPMENT_TEAM = VP3AM7E5ZL;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -255,6 +255,7 @@
 				29054A061DC324FB007637F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -63,7 +63,7 @@
       </BuildableProductRunnable>
       <CommandLineArguments>
          <CommandLineArgument
-            argument = "/Users/kylewong/Documents/Codes/XcodeValidAPI/Analyzer 8.0 10.0"
+            argument = "$SRCROOT/../Analyzer 8.0 10.0"
             isEnabled = "YES">
          </CommandLineArgument>
       </CommandLineArguments>

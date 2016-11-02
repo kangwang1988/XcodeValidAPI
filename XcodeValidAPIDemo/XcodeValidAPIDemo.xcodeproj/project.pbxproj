@@ -297,7 +297,7 @@
 					"-Xclang",
 					"-plugin-arg-ClangValidAPIPlugin",
 					"-Xclang",
-					/Users/kylewong/Documents/Codes/XcodeValidAPI,
+					"$(SRCROOT)/..",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kangwang1988.XcodeValidAPIDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -328,7 +328,7 @@
 					"-Xclang",
 					"-plugin-arg-ClangValidAPIPlugin",
 					"-Xclang",
-					/Users/kylewong/Documents/Codes/XcodeValidAPI,
+					"$(SRCROOT)/..",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.kangwang1988.XcodeValidAPIDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
